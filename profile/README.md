@@ -74,17 +74,17 @@ Thank you to all the amazing people who have contributed to MagScribe:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/nitinkr0411">
-        <img src="https://github.com/nitinkr0411.png?size=100" width="100px;" alt="nitinkr0411"/>
-        <br />
-        <sub><b>nitinkr0411</b></sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/akashjindal423">
         <img src="https://github.com/akashjindal423.png?size=100" width="100px;" alt="akashjindal423"/>
         <br />
         <sub><b>akashjindal423</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nitinkr0411">
+        <img src="https://github.com/nitinkr0411.png?size=100" width="100px;" alt="nitinkr0411"/>
+        <br />
+        <sub><b>nitinkr0411</b></sub>
       </a>
     </td>
   </tr>
